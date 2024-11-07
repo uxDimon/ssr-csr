@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./assets/background/Slide-16_9-1.webp
+background: /background/Slide-16_9-1.webp
 # some information about your slides (markdown enabled)
 title: Что такое SSR!
 info: |
